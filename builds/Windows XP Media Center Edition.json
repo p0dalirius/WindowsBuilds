@@ -1,0 +1,57 @@
+{
+    "Windows XP Media Center Edition": {
+        "Media Center Edition": {
+            "2600.1050.xpsp1.020529-1810": {},
+            "2600.1075.xpsp1.020711-1923": {},
+            "2600.1078.xpsp1.020716-1800": {},
+            "2600.1106.xpsp1.020828-1920": {}
+        },
+        "Media Center Edition 2004": {
+            "2600.1258.EHOMEBUILD2.030201-0204": {},
+            "2600.1335.EHOMEBUILD1-x86fre(private/MCEv11).030508-0215": {},
+            "2600.1347.private/mcev11(wmbla).030521-1011": {},
+            "2600.1217.WXPMCE.030729-0430": {}
+        },
+        "Media Center Edition 2005": {
+            "2600.2075.eHBuild.040213-1103": {},
+            "2600.2075.private/xpsp_mce(wmbla).040310-1027": {},
+            "2600.2094.private/xpsp_mce(wmbla).040315-0957": {},
+            "2600.2094.private/xpsp_mce(wmbla).040324-0204": {},
+            "2600.2094.private/xpsp_mce(wmbla).040330-0204": {},
+            "2600.2096.private/xpsp_mce.040409-0204": {},
+            "2600.2096.private/xpsp_mce.040414-0204": {},
+            "2600.2137.private/xpsp_mce_beta2(wmbla).040527-0205": {},
+            "2600.2160.private/xpsp_mce.040717-0204": {},
+            "2700.2180.private/xpsp_mce.040810-0205": {}
+        },
+        "Media Center Edition 2005 Update Rollup 1": {
+            "2700.2230.private/xpsp_mce_qfe(wmbla)": {}
+        },
+        "Media Center Edition 2005 Update Rollup 2 Beta": {
+            "2710.2631.xpsp(wmbla).050314-1700": {},
+            "2710.2636.xpsp(wmbla).050320-1700": {},
+            "2710.2641.xpsp(wmbla).050328-0730": {},
+            "2710.2647.xpsp(wmbla).050404-1809": {},
+            "2710.2652.xpsp(wmbla).050412-1759": {},
+            "2710.2652.xpsp(wmbla).050421-1454": {},
+            "2710.2668.xpsp(wmbla).050503-1142": {},
+            "2710.2674.xpsp(wmbla).050510-1701": {},
+            "2710.2678.xpsp(wmbla).050517-1912": {},
+            "2710.2684.xpsp(wmbla).050525-1220": {},
+            "2710.2688.xpsp(wmbla).050531-1701": {},
+            "2710.2691.xpsp(wmbla).050608-1812": {},
+            "2710.2691.xpsp(wmbla).050612-1701": {},
+            "2710.2704.xpsp(wmbla).050621-1708": {},
+            "2710.2709.xpsp(wmbla).050628-2210": {},
+            "2710.2710.xpsp(wmbla).050629-1806": {},
+            "2710.2714.xpsp(wmbla).050705-1705": {},
+            "2710.2718.xpsp(wmbla).050712-1904": {},
+            "2710.2724.xpsp(wmbla).050721-2142": {},
+            "2710.2727.xpsp(wmbla).050727-1938": {},
+            "2710.2731.xpsp(wmbla).050802-2323": {}
+        },
+        "Media Center Edition 2005 Update Rollup 2": {
+            "2710.2732.xpsp(wmbla).050805-1239": {}
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Windows Embedded 7": {
+        "Windows Embedded Standard 7": {
+            "Community Technology Preview": {
+                "1.0.0099.0.FBL_Embedded_Win7_Dev.090729-1300": {},
+                "1.0.0223.0.win7_gdr_embedded_dev_ctp2.091113-2000": {}
+            },
+            "Release Candidate": {
+                "1.0.0254.0.win7_gdr_embedded_dev_rc.100115-0100": {}
+            },
+            "RTM": {
+                "1.0.0299.0.win7_gdr_embedded_dev.100401-1730": {}
+            },
+            "Service Pack 1": {
+                "1.1.0222.0.win7sp1_rtm_embedded.110214-1900": {}
+            }
+        },
+        "Windows Embedded POSReady 7": {
+            "Community Technology Preview 1": {
+                "1.1.0210.0.win7_spdev_embedded.101116-1030": {}
+            },
+            "Community Technology Preview 2": {
+                "1.1.0240.0.win7sp1_rtm_embedded_pos.110408-1524": {}
+            },
+            "RTM": {
+                "1.1.0242.0.win7sp1_rtm_embedded_pos.110426-1500": {}
+            }
+        }
+    }
+}

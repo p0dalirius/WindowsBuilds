@@ -1,0 +1,13 @@
+{
+    "Windows Small Business Server 2000": {
+        "Beta": {
+            "5.0.1059.0": {}
+        },
+        "RTM": {
+            "5.0.1176.0": {}
+        },
+        "Service Pack 1a": {
+            "5.0.1343.0": {}
+        }
+    }
+}

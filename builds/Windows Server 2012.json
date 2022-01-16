@@ -1,0 +1,41 @@
+{
+    "Windows Server 2012": {
+        "Milestone 1": {
+            "7700.winmain.100122-1900": {},
+            "7850.winmain_win8m1.100922-1508": {}
+        },
+        "Milestone 2": {
+            "7904.winmain.101216-1845": {}
+        },
+        "Milestone 3": {
+            "7959.fbl_srv_wdacxml.110307-1930": {},
+            "7963.winmain.110310-1721": {},
+            "8055": {},
+            "8064.fbl_eeap.110806-1000": {},
+            "8066": {},
+            "8100.winmain_win8m3.110819-1727": {},
+            "8101.winmain_win8m3.110822-1905": {},
+            "8102.winmain_win8m3.110823-1455 (Developer Preview)": {}
+        },
+        "Beta": {
+            "8110.fbl_srv_fsm.110908-1926": {},
+            "8140.0.winmain.111020-1857": {},
+            "8148.0.winmain.111103-1846": {},
+            "8180.winmain.120109-1245": {},
+            "8220": {},
+            "8250.winmain_win8beta.120217-1520 (Beta)": {}
+        },
+        "Release Candidate": {
+            "8370": {},
+            "8400.winmain_win8rc.120518-1423 (Release Candidate)": {}
+        },
+        "RTM Escrow": {
+            "8432.0.winmain.120611-1243": {},
+            "8441.winmain.120623-1614": {},
+            "8508": {}
+        },
+        "RTM": {
+            "9200.16384.win8_rtm.120725-1247": {}
+        }
+    }
+}

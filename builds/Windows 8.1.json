@@ -1,0 +1,76 @@
+{
+    "Windows 8.1": {
+        "Milestone 1": {
+            "9298.fbl_grfx_dev.130113-1800": {},
+            "9299.0.fbl_partner_out06.130117-1707": {},
+            "9319.0.winmain.130208-1820": {},
+            "9347.0.winmain_bluem1.130220-1500": {},
+            "9364.0.fbl_partner_out13.130315-2105": {},
+            "9369.0.fbl_partner_out14.130324-1300": {},
+            "9370.0.fbl_loc.130325-2000": {}
+        },
+        "Milestone 2": {
+            "9374.0.fbl_partner_out15.130329-2355": {},
+            "9379.0.fbl_partner_out16.130410-0711": {},
+            "9385.0.fbl_partner_out17.130415-2049": {}
+        },
+        "Milestone Preview": {
+            "9403.fbl_srv2_partners.130509-2000": {},
+            "9405.0.fbl_partner_out20.130510-2330": {},
+            "9410.fbl_partner_out21.130522-1653": {},
+            "9415.0.winmain.130524-1723": {},
+            "9415.fbl_partner_out22.130525-0845": {},
+            "9418.0.winmain_bluemp.130530-1905": {},
+            "9419.0.fbl_partner_out23.130603-1634": {},
+            "9421.0.fbl_fun_lad_dev.130313-1212": {},
+            "9428.0": {},
+            "9431.0.winmain_bluemp.130615-1214 (Preview)": {}
+        },
+        "Pre-RTM": {
+            "9447.fbl_partner_out21.130621-0700": {},
+            "9448.fbl_partner_out25.130621-2030": {},
+            "9450.0.winmain.130625-1705": {},
+            "9456.fbl_partner_out27.130703-2335": {},
+            "9457.0.fbl_loc.130708-1930": {},
+            "9458": {},
+            "9460.0.fbl_partner_out28.130712-1918": {},
+            "9465.0.fbl_partner_out29.130719-2136": {},
+            "9466.0.fbl_loc.130722-1930": {},
+            "9468.0.winblue_rtm.130725-1203": {},
+            "9471.fbl_partner_out30.130726-2004": {},
+            "9477.fbl_partner_out31.130803-0736": {},
+            "9477.fbl_partner_out21.130803-1037": {},
+            "9478.winblue_rtm.130804-1505": {},
+            "9483.0.winblue_rtm.130809-2020": {},
+            "9490": {}
+        },
+        "RTM": {
+            "9600.16384.winblue_rtm.130821-1623": {}
+        },
+        "Post-RTM": {
+            "9600.fbl_uex_drx.130826-1600": {},
+            "9600.16384.winblue_rtm_partner.130828-1900": {}
+        },
+        "GA Update": {
+            "9600.16422.winblue_gdr.131006-1505": {},
+            "Update 1 pre-release builds": {
+                "9600.16581.winblues14_gdr_lean.131222-2030": {},
+                "9600.16593.winblue_s14.140103-2115": {},
+                "9600.16596.winblues14_gdr_lean.140112-2038": {},
+                "9600.16596.winblues14_gdr_lean.140114-0237": {},
+                "9600.16606.winblues14_gdr_lean.140126-2042": {},
+                "9600.16608.winblues14_gdr_lean.140130-2030": {},
+                "9600.17024.winblue_gdr_s14sku_partner.140214-1700": {}
+            },
+            "Update 1": {
+                "9600.17031.winblue_gdr.140221-1952": {}
+            },
+            "Update 2": {
+                "9600.17238.winblue_gdr.140723-2018": {}
+            },
+            "Update 3": {
+                "9600.17415.winblue_r4.141028-1500": {}
+            }
+        }
+    }
+}

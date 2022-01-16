@@ -1,0 +1,44 @@
+{
+    "Windows 10 November 2021 Update": {
+        "Pre-Release Preview": {
+            "19044.1021.vb_release_svc_prod2.210507-1608": {},
+            "19044.1023.vb_release_svc_prod3.210517-1726": {},
+            "19044.1052.vb_release_svc_prod1.210604-1652": {},
+            "19044.1055.vb_release_svc_im.210609-2133": {},
+            "19044.1081.vb_release_svc_prod3.210607-1924": {},
+            "19044.1082.vb_release_svc_prod3.210624-2043": {},
+            "19044.1083.vb_release_svc_prod3.210703-0820": {},
+            "19044.1110.vb_release_svc_prod1.210708-1509": {}
+        },
+        "Release Preview": {
+            "19044.1147.vb_release_svc_prod2.210709-1315": {},
+            "19044.1149.vb_release_svc_prod3.210714-1639": {},
+            "19044.1151.vb_release_svc_prod3.210722-2105": {},
+            "19044.1165.vb_release_svc_prod1.210730-1848": {},
+            "19044.1198": {},
+            "19044.1200.vb_release_svc_prod3.210812-1726": {},
+            "19044.1202.vb_release_svc_prod3.210825-1806": {},
+            "19044.1237.vb_release_svc_prod1.210911-1432": {},
+            "19044.1263.vb_release_svc_prod3.210913-1601": {},
+            "19044.1266.vb_release_svc_prod3.210927-0035": {}
+        },
+        "RTM": {
+            "19044.1288.vb_release_svc_prod1.211004-1917": {}
+        },
+        "GA Escrow": {
+            "19044.1319.vb_release_svc_prod2.211007-1636": {},
+            "19044.1320.vb_release_svc_prod3.211013-2035": {}
+        },
+        "General availability": {
+            "19044.1348.vb_release_svc_prod1.211101-1451": {}
+        },
+        "Updates": {
+            "19044.1379.vb_release_svc_prod2.211102-1716": {},
+            "19044.1381.vb_release_svc_prod2.211105-1643": {},
+            "19044.1387.vb_release_svc_prod3.211119-1335": {},
+            "19044.1415.vb_release_svc_prod1.211207-1656": {},
+            "19044.1466.vb_release_svc_prod1.220106-1158": {},
+            "19044.1499.vb_release_svc_prod1.220107-2002": {}
+        }
+    }
+}

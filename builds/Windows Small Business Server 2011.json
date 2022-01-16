@@ -1,0 +1,13 @@
+{
+    "Windows Small Business Server 2011": {
+        "Standard": {
+            "7716.sbs7_RC.100902-0855": {},
+            "7900.sbs_sbs7.101108-0845": {}
+        },
+        "Essentials": {
+            "7657.colorado_rc0.100715-1900": {},
+            "8400.16385.colorado_rc2.110128-1340": {},
+            "8800.16385.hsbs_colorado.110302-1330": {}
+        }
+    }
+}

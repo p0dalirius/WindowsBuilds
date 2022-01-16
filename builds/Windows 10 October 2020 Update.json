@@ -1,0 +1,59 @@
+{
+    "Windows 10 October 2020 Update": {
+        "Pre-Beta": {
+            "19042.264.vb_release_svc_prod1.200508-2205": {}
+        },
+        "Beta Channel": {
+            "19042.330.vb_release_svc_im.200609-1447": {},
+            "19042.388.vb_release_svc_prod1.200707-0737": {},
+            "19042.421.vb_release_svc_prod3.200721-1801": {},
+            "19042.423.vb_release_svc_prod3.200727-1844": {},
+            "19042.450.vb_release_svc_prod3.200805-1850": {}
+        },
+        "Release Preview": {
+            "19042.487.vb_release_svc_prod3.200817-1719": {},
+            "19042.488.vb_release_svc_prod3.200901-1343": {}
+        },
+        "RTM": {
+            "19042.508.vb_release_svc_prod1.200905-1327": {}
+        },
+        "GA Escrow": {
+            "19042.541.vb_release_svc_prod1.200914-1541": {},
+            "19042.546.vb_release_svc_prod1.200925-1535": {}
+        },
+        "General availability": {
+            "19042.572.vb_release_svc_prod1.201007-1724": {}
+        },
+        "Updates": {
+            "19042.608.vb_release_svc_prod3.201015-1639": {},
+            "19042.610.vb_release_svc_prod3.201022-1043": {},
+            "19042.630.vb_release_svc_prod1.201103-1642": {},
+            "19042.631.vb_release_svc_im.201113-1953": {},
+            "19042.662.vb_release_svc_prod3.201116-1806": {},
+            "19042.685.vb_release_svc_prod1.201201-2105": {},
+            "19042.746.vb_release_svc_prod1.210106-2232": {},
+            "19042.782.vb_release_svc_prod3.210115-1905": {},
+            "19042.789.vb_release_svc_prod3.210129-1243": {},
+            "19042.804.vb_release_svc_prod1.210128-1115": {},
+            "19042.844.vb_release_svc_prod3.210209-1708": {},
+            "19042.867.vb_release_svc_prod1.210226-1354": {},
+            "19042.899.vb_release_svc_prod2.210305-1721": {},
+            "19042.906.vb_release_svc_prod3.210320-2028": {},
+            "19042.962.vb_release_svc_prod2.210409-1927": {},
+            "19042.964.vb_release_svc_prod3.210422-1118": {},
+            "19042.985.vb_release_svc_prod1.210428-1722": {},
+            "19042.1021.vb_release_svc_prod2.210507-1608": {},
+            "19042.1023.vb_release_svc_prod3.210517-1726": {},
+            "19042.1052.vb_release_svc_prod1.210604-1652": {},
+            "19042.1055.vb_release_svc_im.210609-2133": {},
+            "19042.1081.vb_release_svc_prod3.210607-1924": {},
+            "19042.1082.vb_release_svc_prod3.210624-2043": {},
+            "19042.1083.vb_release_svc_prod3.210703-0820": {},
+            "19042.1110.vb_release_svc_prod1.210708-1509": {},
+            "19042.1165.vb_release_svc_prod1.210730-1848": {},
+            "19042.1237.vb_release_svc_prod1.210911-1432": {},
+            "19042.1288.vb_release_svc_prod1.211004-1917": {},
+            "19042.1348.vb_release_svc_prod1.211101-1451": {}
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Windows Server, version 1803": {
+        "Insider Preview": {
+            "16257.1000.rs_prerelease.170728-1630": {},
+            "16262.1001.rs_prerelease.170805-2131": {},
+            "16267.1001.rs_prerelease.170812-2252": {},
+            "16362.rs_onecore_base2_has1_dev": {},
+            "17025.1000.rs_prerelease.171020-1626": {},
+            "17035.1000.rs_prerelease.171103-1616": {},
+            "17046.1000.rs_prerelease.171118-1403": {},
+            "17047.rs_srvcommon": {},
+            "17074.1000.rs_prerelease.180106-2256": {},
+            "17079.1001.rs_prerelease.180113-2149": {},
+            "17093.1000.rs_prerelease.180202-1400": {}
+        },
+        "RTM": {
+            "17134.1.rs4_release.180410-1804": {}
+        }
+    }
+}

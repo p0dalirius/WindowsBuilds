@@ -1,0 +1,11 @@
+{
+    "Windows Embedded Compact 7": {
+        "Community Technology Preview": {
+            "7.00.1347": {}
+        },
+        "RTM": {
+            "7.00.1687": {},
+            "7.00.2824": {}
+        }
+    }
+}

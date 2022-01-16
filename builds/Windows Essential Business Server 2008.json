@@ -1,0 +1,29 @@
+{
+    "Windows Essential Business Server 2008": {
+        "Beta 1": {
+            "5112.0.wssg_beta1(bobld).061206-2200": {}
+        },
+        "Community Technology Preview": {
+            "5241.0.mms_main.070627-1900": {}
+        },
+        "Beta 2": {
+            "5385.0.mms_beta2.071129-2121": {},
+            "5395.0.mms_beta2.080129-2000": {}
+        },
+        "Release Candidate 0": {
+            "5496.0.mms_rc0.080416-2105": {},
+            "5496.8.mms_rc0.080605-1523": {},
+            "5496.11.mms_rc0.080618-1103": {}
+        },
+        "Release Candidate 1": {
+            "5609.0.mms_rc1.080708-1910": {},
+            "5609.2.mms_rc1.080821-0304": {}
+        },
+        "RTM": {
+            "5700.0.mms_centro_rtm.080902-1741": {},
+            "5700.12.mms_centro_rtm.081029-1420": {},
+            "5700.14.mms_centro_rtm.081104-1720": {},
+            "5700.16.mms_centro_rtm.081114-1910": {}
+        }
+    }
+}

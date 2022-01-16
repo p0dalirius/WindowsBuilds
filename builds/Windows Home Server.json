@@ -1,0 +1,37 @@
+{
+    "Windows Home Server": {
+        "Beta": {
+            "1282": {}
+        },
+        "Beta 2": {
+            "1301.qhsv1_main.070117-1800": {}
+        },
+        "Community Technology Preview": {
+            "1371.qhsv1_main.070410-0000": {}
+        },
+        "Release Candidate": {
+            "1424.2.qhsv1_rc.070606-1800": {}
+        },
+        "RTM": {
+            "1500.6.qhsv1_rtm_qfe.070906-1800": {}
+        },
+        "Power Pack 1 Release Candidate": {
+            "1771.whs_v1se_rc4.080604-2000": {},
+            "1771.3.whs_v1se_rc4.080612-2000": {}
+        },
+        "Power Pack 1": {
+            "1800.whs_pp1.080712-1300": {}
+        },
+        "Power Pack 2": {
+            "2030.whs_pp2.090310-2103": {}
+        },
+        "Power Pack 3 Beta": {
+            "2361.whs_v1se.090711-1902": {}
+        },
+        "Power Pack 3": {
+            "2423.whs_pp3.091007-1218": {},
+            "3039.whs_pp3.100712-1402": {},
+            "3436.whs_pp3.110110-1229": {}
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "Windows 11": {
+        "Pre-Dev Channel": {
+            "21327.1000.fs_prerelease.210226-1437": {},
+            "21664.1005.co_refresh.210506-1545": {},
+            "21681.1000.co_refresh.210511-1558": {},
+            "21380.1001.fs_dev6_flt.210511-1900": {},
+            "21990.1.co_release.210523-1300": {},
+            "21996.1.co_release.210529-1541": {},
+            "22000.1.co_release.210604-1628": {},
+            "22000.6.co_release_svc_oem.210712-2104": {},
+            "22000.9.co_release_svc_oem.210719-1218": {},
+            "22000.20": {},
+            "22000.37": {},
+            "22000.40": {},
+            "22114.co_refresh": {},
+            "22117.co_refresh": {},
+            "22000.41.co_release_svc_prod3.210615-2138": {}
+        },
+        "Dev Channel": {
+            "22000.51.co_release_svc_prod2.210617-2050": {},
+            "22135.1000": {},
+            "22136.co_refresh_dxp.210701-1513": {},
+            "22137.1000": {},
+            "22000.63": {},
+            "22000.65.co_release_svc_im.210703-0754": {},
+            "22000.71.co_release_svc_prod1.210707-1727": {},
+            "22139.1001": {},
+            "22141.1000.co_refresh": {}
+        },
+        "Beta Channel": {
+            "22000.100.co_release_svc_prod2.210714-1804": {},
+            "22142.1000.co_refresh": {},
+            "22143.1000.co_refresh": {},
+            "22144.1000.co_refresh": {},
+            "22146.1000.co_refresh": {},
+            "22000.111": {},
+            "22000.120.co_release_svc_im.210728-1636": {},
+            "22153.1002": {},
+            "22156.1000.co_refresh": {},
+            "22159.1000": {},
+            "22000.130": {},
+            "22000.132.co_release_svc_prod1.210805-1437": {},
+            "22000.132.co_release_svc_refresh.210809-2349": {},
+            "22000.160.co_release_svc_prod2.210811-1701": {},
+            "22000.168.co_release_svc_prod3.210818-1922": {}
+        },
+        "Release Preview": {
+            "22000.176.co_release_svc_prod2.210825-1709": {},
+            "22000.184.co_release_svc_im.210901-1745": {},
+            "22000.190.co_release_svc_prod1.210902-1734": {}
+        },
+        "General availability": {
+            "22000.194.co_release_svc_prod1.210911-1543": {}
+        },
+        "Post-General availability": {
+            "22000.194.co_release_svc_refresh.210913-1444": {}
+        },
+        "Updates": {
+            "22000.253.co_release_svc_prod1.210928-1724": {},
+            "22000.258.co_release_svc_prod1.211004-1917": {},
+            "22000.258.co_release_svc_refresh.211007-1642": {},
+            "22000.280.co_release_svc_prod2.210916-1746": {},
+            "22000.282.co_release_svc_prod2.211006-1742": {},
+            "22000.318.co_release_svc_prod1.211102-1556": {},
+            "22000.318.co_release_svc_refresh.211104-1236": {},
+            "22000.341.co_release_svc_prod2.211018-1724": {},
+            "22000.345.co_release_svc_prod2.211029-1818": {},
+            "22000.346.co_release_svc_prod2.211105-1539": {},
+            "22000.347.co_release_svc_prod3.211115-1624": {},
+            "22000.348.co_release_svc_prod3.211116-1352": {},
+            "22000.376.co_release_svc_prod1.211202-1619": {},
+            "22000.430.co_release_svc_prod1.211213-1726": {},
+            "22000.434.co_release_svc_prod1.220104-1741": {},
+            "22000.460.co_release_svc_prod2.211213-1727": {},
+            "22000.464.co_release_svc_prod2.211227-1736": {},
+            "22000.466.co_release_svc_prod2.211231-1733": {}
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Windows Server, version 1909": {
+        "Insider Preview (update files)": {
+            "18363.327.19h1_release_svc_prod3.190820-1830": {},
+            "18363.329.19h1_release_svc_prod3.190827-1331": {},
+            "18363.356.19h1_release_svc_prod1.190903-1844": {},
+            "18363.385.19h1_release_svc_prod3.190918-1851": {},
+            "18363.387.19h1_release_svc_prod3.190923-1719": {},
+            "18363.388.19h1_release_svc_prod3.190929-1123": {}
+        },
+        "RTM": {
+            "18363.418.19h1_release_svc_prod1.191005-1654": {}
+        },
+        "Updates": {
+            "18363.1533.19h1_release_svc_prod2.210409-1927": {}
+        }
+    }
+}

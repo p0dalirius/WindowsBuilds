@@ -1,0 +1,10 @@
+{
+    "Windows XP Starter Edition": {
+        "RTM": {
+            "2600.2901.xpsp_sp2_gdr.060504-0312": {}
+        },
+        "Service Pack 3": {
+            "2600.5512.xpsp.080413-2111": {}
+        }
+    }
+}

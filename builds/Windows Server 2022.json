@@ -1,0 +1,81 @@
+{
+    "Windows Server 2022": {
+        "Pre-Insider Preview": {
+            "19504": {},
+            "19549.rs_onecore_stack.200115-1450": {}
+        },
+        "Insider Preview": {
+            "Manganese (rs_prerelease branch)": {
+                "19551.1001.rs_prerelease.200118-2023": {},
+                "19551.1005.rs_prerelease_flt.200118-2110": {},
+                "19564.1005.rs_prerelease_flt.200207-1540": {},
+                "19603.1000.rs_prerelease.200403-1523": {},
+                "19608.1000.rs_prerelease.200410-1438": {},
+                "19608.1006.rs_prerelease_flt.200413-1817": {},
+                "19613.1000.rs_prerelease.200417-1557": {},
+                "19613.1005.rs_prerelease_flt.200417-1647": {},
+                "19624.1000.rs_prerelease.200502-1339": {}
+            },
+            "Iron (rs_prerelease branch)": {
+                "20145.1000": {},
+                "20150.1000.rs_prerelease.200612-1734": {},
+                "20152.1000.rs_prerelease.200617-1502": {},
+                "20161.1000.rs_prerelease.200627-1754": {},
+                "20165.1000.rs_prerelease.200702-1424": {},
+                "20170.1000.rs_prerelease.200710-1419": {},
+                "20175.1000.rs_prerelease.200717-1349": {},
+                "20180.1000.rs_prerelease.200725-1714": {},
+                "20185.1000.rs_prerelease.200731-1415": {},
+                "20190.1000.rs_prerelease.200807-1609": {},
+                "20201.1000.rs_prerelease.200822-1922": {},
+                "20206.1000.rs_prerelease.200828-1431": {},
+                "20211.1000.rs_prerelease.200904-1619": {},
+                "20211.1005.rs_prerelease_flt.200904-1700": {},
+                "20215.1000.rs_prerelease.200911-1500": {},
+                "20221.1000.rs_prerelease.200919-1857": {},
+                "20226.1000.rs_prerelease.200925-1415": {},
+                "20231.1000.rs_prerelease.201002-1444": {},
+                "20231.1005.rs_prerelease_flt.201002-1518": {},
+                "20236.1000.rs_prerelease.201009-1631": {},
+                "20236.1005.rs_prerelease_flt.201009-1648": {},
+                "20241.1000.rs_prerelease.201016-1450": {},
+                "20241.1005.rs_prerelease_flt.201017-1308": {}
+            },
+            "Iron (fe_release_server branch)": {
+                "20251.1000.fe_release_server.201030-1438": {},
+                "20257.1000.fe_release_server.201106-1606": {},
+                "20262.1000.fe_release_server.201115-1700": {},
+                "20270.1000.fe_release_server.201124-1455": {}
+            },
+            "Iron (fe_release branch)": {
+                "20282.1.fe_release.210111-1506": {},
+                "20285.1.fe_release.210116-1100": {},
+                "20287.1.fe_release.210124-1100": {},
+                "20289.2.fe_release.210129-1837": {},
+                "20292.1.fe_release.210205-1504": {},
+                "20295.1.fe_release.210212-1600": {},
+                "20296.fe_release.210216-1726": {},
+                "20298.1.fe_release.210220-1636": {},
+                "20303.1.fe_release.210226-1630": {},
+                "20308.1.fe_release.210305-1700": {},
+                "20313.1.fe_release.210312-1606": {},
+                "20317.1.fe_release.210318-1714": {},
+                "20324.3.fe_release.210327-1200": {},
+                "20329.1.fe_release.210402-1730": {},
+                "20334.1.fe_release.210409-1622": {},
+                "20339.2.fe_release.210417-1100": {},
+                "20340": {},
+                "20344.1.fe_release.210424-1554": {}
+            }
+        },
+        "Preview": {
+            "20348.1.fe_release.210507-1500": {}
+        },
+        "General availability": {
+            "20348.169.fe_release_svc_prod1.210805-1424": {}
+        },
+        "Post-General availbility": {
+            "20348.169.fe_release_svc_refresh.210806-2348": {}
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Windows Server, version 20H2": {
+        "Insider Preview (update files)": {
+            "19042.388.vb_release_svc_prod1.200707-0737": {},
+            "19042.421.vb_release_svc_prod3.200721-1801": {},
+            "19042.423.vb_release_svc_prod3.200727-1844": {},
+            "19042.450.vb_release_svc_prod3.200805-1850": {},
+            "19042.487.vb_release_svc_prod3.200817-1719": {}
+        },
+        "RTM": {
+            "19042.508.vb_release_svc_prod1.200905-1327": {}
+        },
+        "General availability": {
+            "19042.572.vb_release_svc_prod1.201007-1724": {}
+        },
+        "Updates": {
+            "19042.541.vb_release_svc_prod1.200914-1541": {},
+            "19042.546.vb_release_svc_prod1.200925-1535": {},
+            "19042.608.vb_release_svc_prod3.201015-1639": {},
+            "19042.610.vb_release_svc_prod3.201022-1043": {},
+            "19042.630.vb_release_svc_prod1.201103-1642": {},
+            "19042.631.vb_release_svc_im.201113-1953": {},
+            "19042.662.vb_release_svc_prod3.201116-1806": {},
+            "19042.685.vb_release_svc_prod1.201201-2105": {},
+            "19042.746.vb_release_svc_prod1.210106-2232": {},
+            "19042.804.vb_release_svc_prod1.210128-1115": {},
+            "19042.844.vb_release_svc_prod3.210209-1708": {},
+            "19042.906.vb_release_svc_prod3.210320-2028": {},
+            "19042.962.vb_release_svc_prod2.210409-1927": {},
+            "19042.964.vb_release_svc_prod3.210422-1118": {}
+        }
+    }
+}

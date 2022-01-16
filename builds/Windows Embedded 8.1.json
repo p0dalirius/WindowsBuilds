@@ -1,0 +1,15 @@
+{
+    "Windows Embedded 8.1": {
+        "Windows Embedded 8.1 Industry": {
+            "Milestone Preview": {
+                "6.3.9431.0.winmain_bluemp.130615-1214": {}
+            },
+            "RTM": {
+                "6.3.9600.16384.winblue_rtm.130821-1623": {}
+            },
+            "Windows 8.1 Update 1": {
+                "6.3.9600.17031.winblue_gdr.140221-1952": {}
+            }
+        }
+    }
+}

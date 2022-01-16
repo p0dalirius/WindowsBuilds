@@ -1,0 +1,17 @@
+{
+    "Windows Home Server 2011": {
+        "Beta": {
+            "7360.hsbs_ids.091210-1540": {},
+            "7495.hsbs_ctp4_pub.100415-1530": {}
+        },
+        "Release Candidate 0": {
+            "7657.colorado_rc0.100715-1900": {}
+        },
+        "Release Candidate 2": {
+            "8400.16385.colorado_rc2.110128-1340": {}
+        },
+        "RTM": {
+            "8800.16385.hsbs_colorado.110302-1330": {}
+        }
+    }
+}

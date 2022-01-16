@@ -1,0 +1,16 @@
+{
+    "Windows Embedded 8": {
+        "Community Technology Preview": {
+            "2.0.0212.0.winmain_win8beta_se_emb.120217-1900": {},
+            "2.0.0307.0.winmain_win8rc_emb.120519-0700": {},
+            "2.0.0341.0.win8_rtm_emb_dev.120829-2350": {}
+        },
+        "Release Preview": {
+            "2.0.0372.0.win8_rtm_emb_dev.121003-1900": {},
+            "2.0.0446.0.win8_rtm_emb_dev.130108-2350": {}
+        },
+        "RTM": {
+            "2.0.0449.0.win8_rtm_emb_dev.130112-1310": {}
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Windows Small Business Server 2008": {
+        "Beta 2": {
+            "5334.sbs_beta2.071130-2007": {},
+            "5379.sbs_beta2_tr.080301-0200": {}
+        },
+        "Release Candidate 0": {
+            "5445.sbs_rc0.080513-1921": {}
+        },
+        "Release Candidate 1": {
+            "5537.sbs_cougar_rc1.080703-2110": {}
+        },
+        "RTM": {
+            "5601.sbs_cougar_rtm.080812-1706": {}
+        }
+    }
+}

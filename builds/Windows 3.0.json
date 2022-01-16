@@ -1,0 +1,77 @@
+{
+    "Windows 3.0": {
+        "Debug Release": {
+            "3.00.11": {},
+            "3.00.12": {},
+            "3.00.13": {},
+            "3.00.14 (Debug Release 1.14)": {}
+        },
+        "Beta": {
+            "3.00.30": {},
+            "3.00.33": {},
+            "undated 1989 build": {},
+            "3.00.46": {},
+            "3.00.48": {},
+            "\"InfoWorld\" build": {},
+            "3.00.55": {},
+            "3.00.58": {},
+            "3.00.59": {}
+        },
+        "Release Candidate": {
+            "3.00 RC2": {},
+            "3.00 RC6": {}
+        },
+        "RTM": {
+            "3.00": {},
+            "3.00 Test Drive": {},
+            "3.00a": {},
+            "3.0A": {},
+            "3.0B": {},
+            "3.01": {},
+            "3.02": {}
+        },
+        "OEM versions": {
+            "Windows 3.00": {
+                "3.00 (Austin OEM)": {},
+                "3.00 (Epson OEM)": {},
+                "3.00 (Goldstar OEM)": {},
+                "3.00 (NEC PC-9800 OEM)": {},
+                "3.00 (Philips OEM)": {},
+                "3.00 (RM Nimbus PC-186 OEM)": {},
+                "3.00 (Tulip OEM)": {},
+                "3.00 (Zenith OEM)": {}
+            },
+            "Windows 3.00a": {
+                "3.00a (Epson OEM)": {},
+                "3.00a (Highscreen OEM)": {},
+                "3.00a (Intel Inboard 386PC)": {},
+                "3.00a (Itautec OEM)": {},
+                "3.00a (Toshiba OEM)": {},
+                "3.00a (Z-NIX OEM)": {}
+            },
+            "Windows 3.0A": {
+                "3.0A (EPSON PC Series OEM)": {},
+                "3.0A (Fujitsu FM Towns OEM)": {},
+                "3.0A (NEC PC-9800 OEM)": {},
+                "3.0A (Toshiba J3100 OEM)": {}
+            },
+            "Windows 3.0B": {
+                "3.0B (NEC PC-9800 OEM)": {}
+            }
+        },
+        "Multimedia Extensions Beta": {
+            "3.00 MDK Version 59": {}
+        },
+        "Multimedia Extensions RTM": {
+            "3.0 with Multimedia Extensions 1.0": {},
+            "Multimedia Extensions OEMs": {
+                "3.0 with Multimedia Extensions 1.0 (Creative Labs OEM)": {},
+                "3.0 with Multimedia Extensions 1.0 (Fujitsu FM Towns OEM)": {},
+                "3.0 with Multimedia Extensions 1.0 (IBM OEM)": {},
+                "3.0 with Multimedia Extensions 1.0 (Media Vision OEM)": {},
+                "3.0 with Multimedia Extensions 1.0 (NEC PC-9800 OEM)": {},
+                "3.0 with Multimedia Extensions 1.0 (Tandy OEM)": {}
+            }
+        }
+    }
+}

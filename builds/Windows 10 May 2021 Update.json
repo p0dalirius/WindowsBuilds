@@ -1,0 +1,50 @@
+{
+    "Windows 10 May 2021 Update": {
+        "Pre-Beta": {
+            "19043.782.vb_release_svc_prod3.210115-1905": {},
+            "19043.789.vb_release_svc_prod3.210129-1243": {},
+            "19043.804.vb_release_svc_prod1.210128-1115": {}
+        },
+        "Beta Channel": {
+            "19043.844.vb_release_svc_prod3.210209-1708": {},
+            "19043.867.vb_release_svc_prod1.210226-1354": {}
+        },
+        "Release Preview": {
+            "19043.899.vb_release_svc_prod2.210305-1721": {},
+            "19043.906.vb_release_svc_prod3.210320-2028": {}
+        },
+        "RTM": {
+            "19043.928.vb_release_svc_prod1.210407-2138": {}
+        },
+        "GA Escrow": {
+            "19043.962.vb_release_svc_prod2.210409-1927": {},
+            "19043.964.vb_release_svc_prod3.210422-1118": {}
+        },
+        "General availability": {
+            "19043.985.vb_release_svc_prod1.210428-1722": {}
+        },
+        "Updates": {
+            "19043.1021.vb_release_svc_prod2.210507-1608": {},
+            "19043.1023.vb_release_svc_prod3.210517-1726": {},
+            "19043.1052.vb_release_svc_prod1.210604-1652": {},
+            "19043.1055.vb_release_svc_im.210609-2133": {},
+            "19043.1081.vb_release_svc_prod3.210607-1924": {},
+            "19043.1082.vb_release_svc_prod3.210624-2043": {},
+            "19043.1083.vb_release_svc_prod3.210703-0820": {},
+            "19043.1110.vb_release_svc_prod1.210708-1509": {},
+            "19043.1147.vb_release_svc_prod2.210709-1315": {},
+            "19043.1149.vb_release_svc_prod2.210714-1639": {},
+            "19043.1151.vb_release_svc_prod3.210722-2105": {},
+            "19043.1165.vb_release_svc_prod1.210730-1848": {},
+            "19043.1198": {},
+            "19043.1200.vb_release_svc_prod3.210812-1726": {},
+            "19043.1202.vb_release_svc_prod3.210825-1806": {},
+            "19043.1263.vb_release_svc_prod3.210913-1601": {},
+            "19043.1288.vb_release_svc_prod1.211004-1917": {},
+            "19043.1319.vb_release_svc_prod2.211007-1636": {},
+            "19043.1320.vb_release_svc_prod3.211013-2035": {},
+            "19043.1379.vb_release_svc_prod2.211102-1716": {},
+            "19043.1381.vb_release_svc_prod2.211105-1643": {}
+        }
+    }
+}

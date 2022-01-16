@@ -1,0 +1,13 @@
+{
+    "Windows MultiPoint Server 2011": {
+        "Public Beta": {
+            "6.1.1188.0.wms2_M2.101012-2105": {}
+        },
+        "Release Candidate": {
+            "6.1.1299.0.wms2_M3.101208-1150": {}
+        },
+        "RTM": {
+            "6.1.1600.0.wms2_WMS2.110202-1550": {}
+        }
+    }
+}

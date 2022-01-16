@@ -1,0 +1,18 @@
+{
+    "Windows Server, version 1709": {
+        "Insider Preview": {
+            "16203.1000.rs_prerelease.170519-1841": {},
+            "16221.1000.rs_onecore_stack_sdn_dev1.170612-1700": {},
+            "16225.1000.rs_prerelease.170615-1441": {},
+            "16229.1000.rs_onecore_container.170620-1600": {},
+            "16237.1001.rs_prerelease.170701-0549": {},
+            "16273.1000.rs3_release.170819-1253": {},
+            "16278.1000.rs3_release.170825-1441": {},
+            "16294.1.rs3_release.170916-2023": {},
+            "16299.0.rs3_release.170922-1354": {}
+        },
+        "RTM": {
+            "16299.15.rs3_release.170928-1534": {}
+        }
+    }
+}

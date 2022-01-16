@@ -1,0 +1,19 @@
+{
+    "Windows XP Embedded": {
+        "Beta 2": {
+            "2526.xpclient.010724-1758": {}
+        },
+        "RTM": {
+            "2600.xpclient.010817-1148": {}
+        },
+        "Service Pack 1": {
+            "2600.1106.xpsp1.020828-1920": {}
+        },
+        "Service Pack 2 RC": {
+            "2600.2171.xpsp_sp2_rtm.040720-1808": {}
+        },
+        "Service Pack 2": {
+            "2600.2180.xpsp_sp2_rtm.040803-2158": {}
+        }
+    }
+}

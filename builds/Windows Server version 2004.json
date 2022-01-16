@@ -1,0 +1,50 @@
+{
+    "Windows Server, version 2004": {
+        "Insider Preview (rs_prerelease branch)": {
+            "18836.1000.rs_prerelease.190208-1649": {},
+            "18841.1000.rs_prerelease.190215-1738": {},
+            "18845.1001.rs_prerelease.190223-1718": {},
+            "18850.1000.rs_prerelease.190301-2051": {},
+            "18855.1000.rs_prerelease.190308-1605": {},
+            "18860.1001.rs_prerelease.190315-2228": {},
+            "18865.1000.rs_prerelease.190322-1503": {},
+            "18875.1000.rs_prerelease.190405-1518": {},
+            "18885.1001.rs_prerelease.190419-1606": {},
+            "18890.1000.rs_prerelease.190426-1618": {},
+            "18894.1000.rs_prerelease.190503-1728": {},
+            "18895.1000.rs_prerelease.190507-2033": {},
+            "18898.1000.rs_prerelease.190510-1634": {},
+            "18908.1000.rs_prerelease.190524-1658": {},
+            "18912.1001.rs_prerelease.190601-1739": {},
+            "18917.1000.rs_prerelease.190607-1942": {},
+            "18922.1000.rs_prerelease.190614-1427": {},
+            "18932.1000.rs_prerelease.190628-1650": {},
+            "18945.1001.rs_prerelease.190720-1835": {},
+            "18965.1000.rs_prerelease.190816-1722": {},
+            "18965.1005.rs_prerelease_flt.190816-2000": {},
+            "18970.1005.rs_prerelease_flt.190825-1835": {},
+            "18975.1000.rs_prerelease.190830-1502": {}
+        },
+        "Insider Preview (vb_release branch)": {
+            "18985.1.vb_release.190913-1426": {},
+            "18995.1.vb_release.190927-1420": {},
+            "19008.1.vb_release.191019-1715": {},
+            "19008.1000.vb_release_svc.191019-1736": {},
+            "19013.1000.vb_release_svc.191025-1802": {},
+            "19013.1102.vb_release_svc_prod2.191029-1657": {},
+            "19013.1122.vb_release_svc_prod1.191101-1324": {},
+            "19023.1.vb_release.191108-1432": {},
+            "19025.1051.vb_release_svc_prod1.191114-2124": {},
+            "19025.1052.vb_release_svc_prod1.191118-1441": {},
+            "19035.1.vb_release.191126-1316": {},
+            "19035.1000.vb_release_svc.191126-1425": {},
+            "19041.21.vb_release_svc_prod1.200102-1725": {}
+        },
+        "RTM": {
+            "19041.208.vb_release_svc_im.200416-2050": {}
+        },
+        "General availability": {
+            "19041.264.vb_release_svc_prod1.200508-2205": {}
+        }
+    }
+}

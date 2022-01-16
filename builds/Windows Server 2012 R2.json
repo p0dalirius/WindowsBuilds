@@ -1,0 +1,32 @@
+{
+    "Windows Server 2012 R2": {
+        "Milestone 1": {
+            "9354.fbl_partner_out11.130301-2000": {}
+        },
+        "Milestone 2": {
+            "9391.6.fbl_partner_out18.130502-1852": {}
+        },
+        "Milestone Preview": {
+            "9400.fbl_sfs_dev1_pr.130506-2030": {},
+            "9402.winmain.130507-1720": {},
+            "9410.fbl_partner_out21.130518-1332": {},
+            "9431.winmain_bluemp.130615-1214 (Preview)": {}
+        },
+        "Pre-RTM": {
+            "9456.0.fbl_partner_out27.130703-2335": {},
+            "9457.0.fbl_loc.130708-1930": {},
+            "9458": {},
+            "9460.0.fbl_partner_out28.130712-1918": {},
+            "9465.0.fbl_partner_out29.130719-2136": {}
+        },
+        "RTM": {
+            "9600.16384.winblue_rtm.130821-1623": {},
+            "Update 1": {
+                "9600.17031.winblue_gdr.140221-1952": {}
+            },
+            "Update 2": {
+                "9600.17415.winblue_r4.141028-1500": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "Windows 2.x": {
+        "Development": {
+            "April 1987 build": {},
+            "InfoWorld build": {},
+            "Alpha 1": {},
+            "Alpha 2": {},
+            "Beta 1 (Developer's Beta1 Release 07/01/87)": {},
+            "Beta 2": {}
+        },
+        "Windows 2.0x": {
+            "Windows 2.01": {
+                "Windows/386 2.01 (Compaq OEM)": {}
+            },
+            "Windows 2.03": {
+                "Windows 2.03 (Amstrad OEM)": {},
+                "Windows B.02.03 (HP OEM)": {},
+                "Windows 2.03 (Ericsson OEM)": {},
+                "Windows 2.03 (G2 Computer Systems OEM)": {},
+                "Windows 2.03 (NEC OEM)": {},
+                "Windows 2.03 (RM Nimbus PC-186 OEM)": {},
+                "Windows 2.03 (Tandon OEM)": {},
+                "Windows 2.03 (Tulip OEM)": {},
+                "Windows 2.03 (Wang OEM)": {},
+                "Windows 2.03 (Zenith OEM)": {},
+                "Windows/386 2.03": {},
+                "Windows/386 2.03 (NEC PowerMate OEM)": {},
+                "Windows/386 2.03.06 (Toshiba OEM)": {}
+            }
+        },
+        "Windows 2.1x": {
+            "Windows 2.1": {
+                "Windows/286 2.1": {},
+                "Windows/286 2.10D (Tulip OEM)": {},
+                "Windows/286 2.1 (Atari OEM)": {},
+                "Windows/286 2.1 (Amstrad OEM)": {},
+                "Windows/286 2.1 (RM OEM)": {},
+                "Windows/386 2.1": {},
+                "Windows/386 2.1 (NEC PC-9800 OEM)": {},
+                "Windows/386 2.10.00 (Toshiba OEM)": {},
+                "Windows/386 2.10D (Tulip OEM)": {},
+                "Windows/386 2.10 (Wang OEM)": {}
+            },
+            "Windows 2.11": {
+                "Windows/286 2.11": {},
+                "Windows/286 2.11 (NEC PC-9800 OEM)": {},
+                "Windows/286 2.11 (RM Nimbus PC-186 OEM)": {},
+                "Windows/386 2.11": {},
+                "Windows/386 2.11 (NEC PC-9800 OEM)": {}
+            }
+        }
+    }
+}

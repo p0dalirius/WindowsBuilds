@@ -1,0 +1,13 @@
+{
+    "Windows Fundamentals for Legacy PCs": {
+        "Beta": {
+            "2600.2180.xpsp_sp2_rtm.040803-2158": {}
+        },
+        "RTM": {
+            "2600.2907.xpsp_sp2_gdr.050301-1519": {}
+        },
+        "Service Pack 3": {
+            "2600.5512.xpsp.080413-2111": {}
+        }
+    }
+}

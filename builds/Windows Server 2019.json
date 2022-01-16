@@ -1,0 +1,33 @@
+{
+    "Windows Server 2019": {
+        "Pre-Insider Preview": {
+            "17609.1002.rs_onecore_stack_sdn_dev1.180220-1700": {},
+            "17612.rs_onecore_sigma_rd_dev.180225-1700": {}
+        },
+        "Insider Preview (rs_prerelease branch)": {
+            "17623.1002.rs_prerelease.180310-1600": {},
+            "17639.1000.rs_prerelease.180330-1630": {},
+            "17643.1000.rs_prerelease.180405-1509": {},
+            "17650.1001.rs_prerelease.180414-1850": {},
+            "17655.1000.rs_prerelease.180420-1850": {},
+            "17661.1001.rs_prerelease.180428-1349": {},
+            "17666.1000.rs_prerelease.180504-1501": {},
+            "17677.1000.rs_prerelease.180520-0940": {},
+            "17692.1000.rs_prerelease.180609-1317": {},
+            "17698.1000.rs_prerelease.180616-1400": {},
+            "17709.1000.rs_prerelease.180629-1430": {},
+            "17709.rs_onecore_stack_sdn_dev2.180630-1700": {}
+        },
+        "Insider Preview (rs5_release branch)": {
+            "17713.1000.rs5_release.180706-1551": {},
+            "17723.1000.rs5_release.180720-1452": {},
+            "17733.1000.rs5_release.180803-1525": {},
+            "17738.1000.rs5_release.180810-1706": {},
+            "17744.1001.rs5_release.180818-1845": {},
+            "17761.1": {}
+        },
+        "RTM": {
+            "17763.1.rs5_release.180914-1434": {}
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "Windows 1.0": {
+        "Multiplan-like demos": {
+            "BYTE build": {},
+            "Interface Manager Internal Test Release #3": {}
+        },
+        "Later demos": {
+            "1983-11-01 build": {},
+            "InfoWorld 1983-11-21 build": {},
+            "Fall COMDEX build": {},
+            "1983-11-20 build": {},
+            "PC Mag 1984-01-24 build": {},
+            "1984-02-22 build": {},
+            "April 1984 build": {}
+        },
+        "Development releases": {
+            "Development Release #1": {},
+            "Development Release #2": {},
+            "Tandy 2000 builds": {},
+            "Development Release #3": {},
+            "Development Release #4": {},
+            "Development Release #5": {}
+        },
+        "Pre-release": {
+            "Alpha Release": {},
+            "Science et Vie Micro build": {},
+            "InfoWorld 1985-07-01 build": {},
+            "Beta Release": {},
+            "Final Beta Release": {},
+            "Preliminary Version 0.50": {},
+            "PC Mag 1985-08-20 build": {},
+            "Premiere Edition": {},
+            "September 1985 builds": {},
+            "1985-10-11 build": {},
+            "1985-10-28 build": {},
+            "Beta V1.00.08": {},
+            "Retail Beta Release 1.00.09": {}
+        },
+        "Early OEM release": {
+            "1.xx": {}
+        },
+        "Retail release": {
+            "1.00": {},
+            "1.01": {
+                "1.AX (Zenith Z-100 OEM)": {},
+                "TC 1.00 (Tulip OEM)": {},
+                "1.01.11 (DEC VAXmate OEM)": {}
+            },
+            "1.02": {
+                "Beta V1.02.02": {},
+                "1.02 (RM Nimbus PC-186 OEM)": {},
+                "1.02 (Siemens PC-D OEM)": {}
+            },
+            "1.03": {
+                "Beta V1.03.04": {},
+                "1.03 (NEC PC-9800 OEM)": {},
+                "A.01.03 (HP OEM)": {},
+                "TC-1.03 (Tulip OEM)": {},
+                "1.03.08 (DEC VAXmate OEM)": {},
+                "VR1.03 (ACT Apricot XEN OEM)": {},
+                "1.03.04 (DEC Rainbow 100 OEM)": {},
+                "1.03 (ICL OEM)": {},
+                "1.03 (RM Nimbus PC-186 OEM)": {}
+            },
+            "1.04": {
+                "Trivia": {}
+            }
+        }
+    }
+}
