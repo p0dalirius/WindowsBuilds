@@ -1,5 +1,11 @@
 # Windows Builds
 
+<p align="center">
+  <img alt="Number of builds" src="https://img.shields.io/badge/builds-4262-brightgreen">
+  <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
+  <br>
+</p>
+
 This repository contains the list of windows builds as parsable JSON files.
 
 ## Windows Builds
